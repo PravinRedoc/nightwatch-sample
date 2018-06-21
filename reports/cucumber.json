@@ -1,0 +1,84 @@
+[
+  {
+    "elements": [
+      {
+        "id": "anna-university;indian-institute-for-ocean-management",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Indian Institute for Ocean Management",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "User can access the url",
+            "result": {
+              "status": "passed",
+              "duration": 12202515800
+            },
+            "line": 4,
+            "match": {
+              "location": "C:\\Users\\prathik-bhat\\WebstormProjects\\Selenium-codes\\features\\step_definitions\\AnnaUniv.js:12"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "Departments page loads",
+            "result": {
+              "status": "passed",
+              "duration": 5416194501
+            },
+            "line": 5,
+            "match": {
+              "location": "C:\\Users\\prathik-bhat\\WebstormProjects\\Selenium-codes\\features\\step_definitions\\AnnaUniv.js:20"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Institute of Ocean Management page loads",
+            "result": {
+              "status": "passed",
+              "duration": 9580371400
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Users\\prathik-bhat\\WebstormProjects\\Selenium-codes\\features\\step_definitions\\AnnaUniv.js:30"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "Coastal pollution monitoring and hazards page loads",
+            "result": {
+              "status": "passed",
+              "duration": 16710390199
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Users\\prathik-bhat\\WebstormProjects\\Selenium-codes\\features\\step_definitions\\AnnaUniv.js:46"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag1",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "anna-university",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Anna University",
+    "tags": [
+      {
+        "name": "@tag1",
+        "line": 1
+      }
+    ],
+    "uri": "C:\\Users\\prathik-bhat\\WebstormProjects\\Selenium-codes\\features\\AnnaUniv.feature"
+  }
+]
